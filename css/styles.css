@@ -58,6 +58,7 @@ ol {
 .nav-link:focus {
   color: #404bbf;
 }
+
 .address {
   font-style: normal;
 }
@@ -215,6 +216,10 @@ ol {
   color: #f4f4fd;
 }
 
+.footer-linc:hover,
+.footer-linc:focus {
+  color: #404bbf;
+}
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
