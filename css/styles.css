@@ -16,6 +16,7 @@ ol {
 /* ?-----------------------------visually-hidden---------------------------- */
 
 .visually-hidden {
+  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
@@ -73,8 +74,10 @@ ol {
 .address-link:hover {
   color: #404bbf;
 }
+
 .address-list {
 }
+
 .address-list-item {
 }
 
@@ -83,14 +86,15 @@ ol {
 .hero {
   background-color: #2e2f42;
 }
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
+  line-height: 1.01;
+  letter-spacing: 0.03em;
   color: #fff;
 }
+
 .hero-button {
   font-weight: 500;
   font-size: 16px;
@@ -137,9 +141,8 @@ ol {
 .team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 .team-list {
@@ -152,15 +155,13 @@ ol {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
+  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 .team-list-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-align: center;
+  letter-spacing: 0.03em;
   color: #434455;
 }
 
@@ -171,9 +172,8 @@ ol {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 .portfolio-list {
