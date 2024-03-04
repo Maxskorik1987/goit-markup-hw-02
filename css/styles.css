@@ -87,6 +87,11 @@ ol {
   background-color: #4d5ae5;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
 .hero-button {
   cursor: pointer;
 }
