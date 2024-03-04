@@ -72,8 +72,9 @@ ol {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.01;
-  letter-spacing: 0.03em;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
 }
 
