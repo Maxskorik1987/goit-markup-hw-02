@@ -160,6 +160,7 @@ ol {
 
 .portfolio {
 }
+
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -169,12 +170,16 @@ ol {
   text-align: center;
   color: #2e2f42;
 }
+
 .portfolio-list {
 }
+
 .portfolio-list-item {
 }
+
 .portfolio-list-img {
 }
+
 .portfolio-list-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -182,6 +187,7 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .portfolio-list-text {
   font-size: 16px;
   line-height: 1.5;
@@ -194,12 +200,13 @@ ol {
 .footer {
   background-color: #2e2f42;
 }
+
 .footer-linc {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -212,6 +219,7 @@ ol {
 .footer-linc:focus {
   color: #404bbf;
 }
+
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
